@@ -1,5 +1,8 @@
 # dbms-project
 
+## Description
+Web application powered by mysql, express JS and simple vanilla js frontend.
+
 ## Database
 host: 'localhost',
 port: 3306,
