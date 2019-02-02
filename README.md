@@ -1,13 +1,13 @@
 # dbms-project
 
-## Database ayarları
+## Database
 host: 'localhost',
 port: 3306,
 user: 'root',
 password: 'FbDb_1234',
 schema: 'fbdb'
 
-## İlk kurulumda sql, string connection için
+## SQL to execute on first run
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'FbDb_1234'
 
 ## Run
